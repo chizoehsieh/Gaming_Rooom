@@ -1,0 +1,9 @@
+C:\Zoe\大二上\C#程式設計\HW8\Pass\Pass\bin\Debug\netstandard2.0\Pass.deps.json
+C:\Zoe\大二上\C#程式設計\HW8\Pass\Pass\bin\Debug\netstandard2.0\Pass.dll
+C:\Zoe\大二上\C#程式設計\HW8\Pass\Pass\bin\Debug\netstandard2.0\Pass.pdb
+C:\Zoe\大二上\C#程式設計\HW8\Pass\Pass\obj\Debug\netstandard2.0\Pass.csprojAssemblyReference.cache
+C:\Zoe\大二上\C#程式設計\HW8\Pass\Pass\obj\Debug\netstandard2.0\Pass.AssemblyInfoInputs.cache
+C:\Zoe\大二上\C#程式設計\HW8\Pass\Pass\obj\Debug\netstandard2.0\Pass.AssemblyInfo.cs
+C:\Zoe\大二上\C#程式設計\HW8\Pass\Pass\obj\Debug\netstandard2.0\Pass.csproj.CoreCompileInputs.cache
+C:\Zoe\大二上\C#程式設計\HW8\Pass\Pass\obj\Debug\netstandard2.0\Pass.dll
+C:\Zoe\大二上\C#程式設計\HW8\Pass\Pass\obj\Debug\netstandard2.0\Pass.pdb

@@ -1,0 +1,17 @@
+C:\Zoe\大二上\C#程式設計\HW8\HW8\bin\Debug\HW8.exe.config
+C:\Zoe\大二上\C#程式設計\HW8\HW8\bin\Debug\HW8.exe
+C:\Zoe\大二上\C#程式設計\HW8\HW8\bin\Debug\HW8.pdb
+C:\Zoe\大二上\C#程式設計\HW8\HW8\bin\Debug\HW5.exe
+C:\Zoe\大二上\C#程式設計\HW8\HW8\bin\Debug\midterm project.exe
+C:\Zoe\大二上\C#程式設計\HW8\HW8\bin\Debug\HW5.pdb
+C:\Zoe\大二上\C#程式設計\HW8\HW8\bin\Debug\HW5.exe.config
+C:\Zoe\大二上\C#程式設計\HW8\HW8\bin\Debug\midterm project.pdb
+C:\Zoe\大二上\C#程式設計\HW8\HW8\bin\Debug\midterm project.exe.config
+C:\Zoe\大二上\C#程式設計\HW8\HW8\obj\Debug\HW8.csprojAssemblyReference.cache
+C:\Zoe\大二上\C#程式設計\HW8\HW8\obj\Debug\HW8.Properties.Resources.resources
+C:\Zoe\大二上\C#程式設計\HW8\HW8\obj\Debug\HW8.csproj.GenerateResource.cache
+C:\Zoe\大二上\C#程式設計\HW8\HW8\obj\Debug\HW8.csproj.CoreCompileInputs.cache
+C:\Zoe\大二上\C#程式設計\HW8\HW8\obj\Debug\HW8.csproj.CopyComplete
+C:\Zoe\大二上\C#程式設計\HW8\HW8\obj\Debug\HW8.exe
+C:\Zoe\大二上\C#程式設計\HW8\HW8\obj\Debug\HW8.pdb
+C:\Zoe\大二上\C#程式設計\HW8\HW8\obj\Debug\HW8.mform1.resources
